@@ -1,0 +1,203 @@
+body {
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+  border-bottom: 0px;
+}
+
+#footer {
+  text-align: center;
+  /* background-color: #242424; */
+  margin-bottom: 0;
+  color: #000;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+  border-bottom: 0px;
+}
+
+#cta {
+  text-align: center;
+  background-color: #242424;
+  color: #4DA5A9;
+  margin-top: 2%;
+  padding-top: 2%;
+}
+
+#pricing {
+  padding: 5% 10% 5% 10%;
+}
+
+#testimonials {
+  text-align: center;
+  background-color: #EAFFE9;
+  color: #5C0000;
+}
+
+#title {
+  background-color: #FFF7E9;
+}
+
+#press {
+  background-color: #EAFFE9;
+  text-align: center;
+  padding-bottom: 3%;
+}
+
+@media (max-width: 1000px) {
+  #title {
+    text-align: center;
+  }
+
+  .title-resmi {
+    margin-left: 0 !important;
+    text-align: center;
+  }
+}
+
+.container-fluid {
+  padding: 3% 5%;
+}
+
+/* navbar özelleştirme */
+/* navbar özelleştirme */
+/* navbar özelleştirme */
+/* navbar özelleştirme */
+.navbar {
+  background-color: #70ABFF;
+}
+
+.nav-item {
+  padding: 0 15px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+}
+
+/* indirme butonları */
+/* indirme butonları */
+/* indirme butonları */
+/* indirme butonları */
+.indirmebutonu {
+  margin: 5% 5% 5% 0;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.indirme-butonu-ios {
+  margin-left: 5%;
+}
+
+/* div özelleştirme */
+/* div özelleştirme */
+/* div özelleştirme */
+/* div özelleştirme */
+/* div özelleştirme */
+.büyüklük {
+  width: 100%;
+  padding: 10% 10% 10% 10%;
+}
+
+.bilgi-kutusu {
+  text-align: center;
+}
+
+/* title resmi */
+/* title resmi */
+/* title resmi */
+/* title resmi */
+/* title resmi */
+/* title resmi */
+.title-resmi {
+  width: 45%;
+  margin-left: 11.5rem;
+}
+
+/* ikon */
+/* ikon */
+/* ikon */
+/* ikon */
+/* ikon */
+/* ikon */
+/* ikon */
+/* ikon */
+/* ikon */
+.ikon {
+  margin-bottom: 1rem;
+}
+
+.ikon:hover {
+  color: gold;
+}
+
+.buton {
+  color: black;
+}
+
+.carousel-item {
+  padding: 7% 15%;
+}
+
+/* fotoğraf */
+/* fotoğraf */
+/* fotoğraf */
+/* fotoğraf */
+/* fotoğraf */
+/* fotoğraf */
+.kaydırmalı-fotoğraf {
+  width: 10%;
+  border-radius: 100%;
+  /* margin: 10px; */
+  margin: 1%;
+}
+
+.press-logo {
+  width: 15%;
+  margin: 2% 2% 5%;
+}
+
+/* yazılar */
+/* yazılar */
+/* yazılar */
+/* yazılar */
+/* yazılar */
+/* yazılar */
+/* yazılar */
+.bilgi-paragraf {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 1rem;
+}
+
+.yorumlar {
+  font-family: 'Square Peg', cursive;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.başlık {
+  font-family: 'Lobster', cursive;
+}
+
+h1 {
+  font-family: 'Montserrat-black', sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+h2 {
+  font-family: 'Montserrat-black', sans-serif;
+  padding-left: 1.3rem;
+  line-height: 1.5;
+}
+
+h3 {
+  font-family: 'Merriweather', serif;
+}
+
+.isim {
+  font-family: 'Ms Madi', cursive;
+  font-size: 3rem;
+}
+
+.sigorta {
+  margin-bottom: 5%;
+  text-align: center;
+}
